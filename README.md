@@ -3,6 +3,7 @@ Thank's for comming here
 
 <br>
 <h2>Usage: </h2>
+
 	1. Install Python 3.8 in your computer
 
 	2. Download this script
